@@ -12,7 +12,7 @@ and contributors (see source file comments and the version control log)
 
 In case you downloaded the source code
 --------------------------------------
-If you downloaded the Minetest Engine source code in which this file is
+If you downloaded the Dragonfire Client source code in which this file is
 contained, you probably want to download the [Minetest Game](https://github.com/minetest/minetest_game/)
 project too. See its README.txt for more information.
 
@@ -170,7 +170,7 @@ For Fedora users:
 
 Download source (this is the URL to the latest of source repository, which might not work at all times) using Git:
 
-    git clone --depth 1 https://github.com/minetest/minetest.git
+    git clone --depth 1 https://github.com/EliasFleckenstein03/dragonfireclient
     cd minetest
 
 Download minetest_game (otherwise only the "Development Test" game is available) using Git:
